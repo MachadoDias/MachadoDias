@@ -26,10 +26,6 @@ Passionate about technology, microcontrollers, and learning new programming skil
 
 ---
 
-### 🙋 Pronouns
-He / Him
-
----
 <h2 align = "center">Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/MachadoDias" target="_blank">
