@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 <img src="https://github.com/user-attachments/assets/37cfffbd-c9ca-499c-ae25-9355d7ebf311" height="100px" align="right"/>
 
-I'm a software development student at **ETE FMC** from Brazil 🇧🇷.  
+I'm a software developer in training at **ETE FMC** from Brazil 🇧🇷.  
 Passionate about technology, microcontrollers, and learning new programming skills.
 
 ---
