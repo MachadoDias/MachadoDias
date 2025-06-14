@@ -34,8 +34,5 @@ Passionate about technology, microcontrollers, and learning new programming skil
   <a href="https://github.com/MachadoDias" target="_blank">
     <img src="https://github.com/user-attachments/assets/c9b02abe-9a5c-4fb0-90c1-e9ef0e3018b5" height="50px"/>
   </a>
-  <a href="https://www.instagram.com/_gabrielmachadodias/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e6bfc7c7-542f-4ae8-ac4f-d0f88d9bfc03" height="50px"/>
-  </a>
 </p>
 
